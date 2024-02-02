@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreFunction", "TestFunctionApp\AspNetCoreFunction.csproj", "{933403A5-E72B-4DB2-B25F-DE6780D10BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultFunctionApp", "DefaultFunctionApp\DefaultFunctionApp.csproj", "{F03D0245-FDE8-4EE3-9448-3B3896A5A97A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultFunctionApp", "DefaultFunctionApp\DefaultFunctionApp.csproj", "{F03D0245-FDE8-4EE3-9448-3B3896A5A97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreManualConfigurationFunction", "AspNetCoreManualConfigurationFunction\AspNetCoreManualConfigurationFunction.csproj", "{CE73C56F-EDFA-41A9-9483-86E92F80ADBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F03D0245-FDE8-4EE3-9448-3B3896A5A97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03D0245-FDE8-4EE3-9448-3B3896A5A97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03D0245-FDE8-4EE3-9448-3B3896A5A97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE73C56F-EDFA-41A9-9483-86E92F80ADBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE73C56F-EDFA-41A9-9483-86E92F80ADBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE73C56F-EDFA-41A9-9483-86E92F80ADBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE73C56F-EDFA-41A9-9483-86E92F80ADBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
